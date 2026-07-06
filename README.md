@@ -4,6 +4,17 @@ A tiny Tampermonkey userscript that lets you watch Crunchyroll **without forced 
 
 Some Crunchyroll titles ship with the subtitles baked into the video ("hardsubs") and give you **no option to turn them off** in the player. This script fixes that by loading the subtitle‑free stream instead — whenever Crunchyroll actually has one.
 
+<table>
+  <tr>
+    <td align="center"><b>Default — burned‑in subtitles</b></td>
+    <td align="center"><b>With the script — clean stream</b></td>
+  </tr>
+  <tr>
+    <td><img src="Frieren%20with%20subs.png" width="400" alt="Crunchyroll playing Frieren with burned-in subtitles"></td>
+    <td><img src="Frieren%20without%20subs.png" width="400" alt="The same scene with no subtitles after enabling the script"></td>
+  </tr>
+</table>
+
 ## Install
 
 1. Install a userscript manager: [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Edge, Firefox) or Violentmonkey.
