@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Crunchyroll No Hardsubs
 // @namespace    https://github.com/LoeweGuckmal
+// @supportUrl   https://github.com/LoeweGuckmal/crunchyroll-no-hardsubs/issues
 // @version      1.0.0
 // @description  Watch Crunchyroll without forced (burned-in) subtitles: loads the subtitle-free "clean" stream whenever Crunchyroll has one, even for titles whose player offers no subtitle off switch.
 // @author       LoeweG
